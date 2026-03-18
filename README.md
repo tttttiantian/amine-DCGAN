@@ -53,13 +53,6 @@
 - 支持 **GPU 加速训练**  
 - 训练完成后保存模型文件 (`generator.pth` / `discriminator.pth`)
 
----
-## ⚡ 快速开始
-
-克隆仓库：  
-```bash
-git clone https://github.com/tttttiantian/amine-DCGAN
-cd anime-DCGAN
 
 ---
 ## 🖼️ 生成效果
@@ -75,7 +68,9 @@ cd anime-DCGAN
 生成的图像将保存在：
 outputs/images/
 
+
 ---
+
 ## 🔧 文件结构
 anime-dcgan/
 │
