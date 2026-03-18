@@ -62,8 +62,6 @@ git clone https://github.com/tttttiantian/amine-DCGAN
 cd anime-DCGAN
 
 ---
-
-
 ## 🖼️ 生成效果
 
 训练过程中生成器输出示例：
@@ -78,7 +76,6 @@ cd anime-DCGAN
 outputs/images/
 
 ---
-
 ## 🔧 文件结构
 anime-dcgan/
 │
