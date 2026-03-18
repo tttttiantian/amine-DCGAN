@@ -90,7 +90,7 @@ anime-dcgan/
 ├── utils.py
 │
 ├── outputs/
-│   ├── images/
+│   ├── image.png
 │   └── models/
 │
 ├── README.md
