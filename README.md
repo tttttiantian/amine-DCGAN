@@ -40,8 +40,8 @@
 - 图像尺寸统一调整为 **64×64**  
 - 数据归一化到 **[-1, 1]**  
 
-数据目录示例：
-/kaggle/input/anime-faces/data
+[数据目录示例：
+/kaggle/input/anime-faces/data](https://www.kaggle.com/datasets/soumikrakshit/anime-faces)
 
 ---
 
@@ -60,18 +60,24 @@
 ```bash
 git clone https://github.com/你的用户名/anime-dcgan.git
 cd anime-dcgan
+
 安装依赖：
 ```bash
 pip install -r requirements.txt
+
 准备数据集：
 ```bash
 anime-DCGAN/datasets/
+
 训练模型：
 ```bash
 python train.py
+
 生成图片：
 ```bash
 python generate.py
+
+
 
 ---
 ## 🖼️ 生成效果
@@ -84,6 +90,7 @@ python generate.py
 
 生成的图像将保存在：
 outputs/images/
+
 
 ---
 
