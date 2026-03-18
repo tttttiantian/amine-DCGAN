@@ -66,6 +66,7 @@
 <img width="936" height="989" alt="image" src="https://github.com/user-attachments/assets/62f62214-51e1-4976-ac0d-ea5b792e64ec" />
 
 - **Epoch 100** → 清晰动漫人脸  
+<img width="939" height="989" alt="image" src="https://github.com/user-attachments/assets/3df9fb40-5e23-4404-a37b-32e8d66df351" />
 
 生成的图像将保存在：
 outputs/images/
