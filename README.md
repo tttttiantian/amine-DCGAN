@@ -58,30 +58,8 @@
 
 克隆仓库：  
 ```bash
-git clone https://github.com/你的用户名/anime-dcgan.git
-cd anime-dcgan
-
-
-
-安装依赖：
-```bash
-pip install -r requirements.txt
-
-
-准备数据集：
-```bash
-anime-DCGAN/datasets/
-
-
-训练模型：
-```bash
-python train.py
-
-
-生成图片：
-```bash
-python generate.py
-
+git clone https://github.com/tttttiantian/amine-DCGAN
+cd anime-DCGAN
 
 ---
 
