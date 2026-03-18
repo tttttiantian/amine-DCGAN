@@ -91,6 +91,8 @@ python generate.py
 训练过程中生成器输出示例：
 
 - **Epoch 10** → 模糊初始图像
+<img width="947" height="997" alt="image" src="https://github.com/user-attachments/assets/8f01b143-f6f1-48e5-8a1b-2afcadce35e6" />
+
 - **Epoch 50** → 人脸结构初步形成  
 - **Epoch 100** → 清晰动漫人脸  
 
