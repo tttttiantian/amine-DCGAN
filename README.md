@@ -61,8 +61,10 @@
 
 - **Epoch 10** → 模糊初始图像
 <img width="947" height="997" alt="image" src="https://github.com/user-attachments/assets/8f01b143-f6f1-48e5-8a1b-2afcadce35e6" />
+
 - **Epoch 50** → 人脸结构初步形成
 <img width="936" height="989" alt="image" src="https://github.com/user-attachments/assets/62f62214-51e1-4976-ac0d-ea5b792e64ec" />
+
 - **Epoch 100** → 清晰动漫人脸  
 
 生成的图像将保存在：
@@ -72,7 +74,7 @@ outputs/images/
 ---
 
 ## 🔧 文件结构
-
+```bash
 anime-dcgan/
 │
 ├── models/
