@@ -61,25 +61,31 @@
 git clone https://github.com/你的用户名/anime-dcgan.git
 cd anime-dcgan
 
+
+
 安装依赖：
 ```bash
 pip install -r requirements.txt
+
 
 准备数据集：
 ```bash
 anime-DCGAN/datasets/
 
+
 训练模型：
 ```bash
 python train.py
+
 
 生成图片：
 ```bash
 python generate.py
 
 
-
 ---
+
+
 ## 🖼️ 生成效果
 
 训练过程中生成器输出示例：
@@ -90,7 +96,6 @@ python generate.py
 
 生成的图像将保存在：
 outputs/images/
-
 
 ---
 
