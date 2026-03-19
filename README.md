@@ -72,6 +72,13 @@
 outputs/images/
 
 
+
+---
+##  损失函数
+
+<img width="584" height="426" alt="image" src="https://github.com/user-attachments/assets/8bea1b7d-cfc4-49a3-8d82-7597c8fde690" />
+
+
 ---
 
 ##  文件结构
@@ -95,3 +102,6 @@ anime-dcgan/
 │
 ├── README.md
 └── requirements.txt
+
+
+
